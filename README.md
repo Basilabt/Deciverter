@@ -1,4 +1,4 @@
-# Biverter
+# Deciverter
 C++ header file to manipulate decimal numbers.
 
 [![Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)
