@@ -6,6 +6,7 @@ C++ header file to manipulate decimal numbers.
 ![Header-Only](https://img.shields.io/badge/library-header--only-brightgreen)
 
 ## Preview
+![Preview](https://github.com/Basilabt/Deciverter/assets/77483631/272a11a8-f2fb-4034-8a08-fb9a0795dff9)
 
 
 
